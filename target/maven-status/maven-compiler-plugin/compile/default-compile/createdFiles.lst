@@ -1,0 +1,11 @@
+projekt\model\Movie.class
+projekt\controller\UserController.class
+projekt\controller\MovieController.class
+projekt\ProjektApplication.class
+projekt\repository\MovieRepository.class
+projekt\service\UserService.class
+projekt\model\User.class
+projekt\service\UserServiceImpl.class
+projekt\repository\UserRepository.class
+projekt\service\MovieServiceImpl.class
+projekt\service\MovieService.class
